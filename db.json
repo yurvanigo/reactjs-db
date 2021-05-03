@@ -1,0 +1,46 @@
+{
+  "spareparts": [
+    {
+      "id": 1,
+      "name": "Brakes",
+      "brand": "bridegestone",
+      "price": 300000,
+      "size": 17
+    },
+    {
+      "id": 2,
+      "name": "Piston",
+      "brand": "bull",
+      "price": 400000,
+      "size": 13
+    },
+    {
+      "id": 3,
+      "name": "A/C",
+      "brand": "yokohama",
+      "price": 500000,
+      "size": 28
+    },
+    {
+      "id": 4,
+      "name": "Radiator",
+      "brand": "yokohama",
+      "price": 500000,
+      "size": 28
+    },
+    {
+      "id": 5,
+      "name": "Clutch",
+      "brand": "yokohama",
+      "price": 500000,
+      "size": 28
+    },
+    {
+      "id": 6,
+      "name": "Shock",
+      "brand": "yokohama",
+      "price": 500000,
+      "size": 28
+    }
+  ]
+}
